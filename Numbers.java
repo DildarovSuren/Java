@@ -6,7 +6,7 @@ public class Numbers {
         double a = 123.456;
         System.out.println(a);
 
-        byte b = -17;
+        byte b = 127;
         System.out.println(b);
     }
 }
